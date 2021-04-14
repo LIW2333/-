@@ -1,0 +1,7 @@
+<!-- component/userItem/userItem.wxml -->
+<view bindtap="handleEvent">
+  <view class='user-item'>
+    <image class="src-icon" src="{{item.icon}}"></image>
+    <text class="src-text">{{item.name}}</text>
+  </view>
+</view>

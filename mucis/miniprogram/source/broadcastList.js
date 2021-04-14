@@ -1,0 +1,37 @@
+var json = [
+  {
+    name:"萝莉可爱",
+thumb:"http://p3.music.126.net/pElGXjbvLnuq_sQGNEU2SQ==/109951164523049349.jpg?param=200y200"
+  },
+  {
+    name:"表情好棒",
+    thumb:"http://p3.music.126.net/dhsPY1ZVdnPxtZ1zsXJafQ==/109951164201872230.jpg?param=200y200"
+  },
+  {
+    name:"调色不错",
+  thumb:"http://p4.music.126.net/3518hjTJgZo59eSnciD56w==/109951164348349845.jpg?param=200y200"
+  },
+  {
+    name:"画风喜欢",
+  thumb:"http://p4.music.126.net/cpe-upUu1jy039PSnfNzBA==/109951164487883426.jpg?param=200y200"
+  },
+  {
+    name:"可爱羊羊",
+  thumb:"http://p3.music.126.net/WWGvfHVOdjKA-oFmsXYeuA==/109951164323766175.jpg?param=200y200"
+  },
+  {
+    name:"海绵宝宝",
+  thumb:"http://p4.music.126.net/SFwfTzbnX2SGTLn6chCnDw==/109951164300101747.jpg?param=200y200"
+  },
+  {
+    name:"白云小熊",
+    thumb:"http://p4.music.126.net/anHl5NbS7ekYCKnP2aLj6w==/109951164418268594.jpg?param=200y200"
+  },
+  {
+    name:"一只纱雾",
+    thumb:"http://p3.music.126.net/U8ZWszkDaeS-lRXy0UWKIw==/109951164527729663.jpg?param=200y200"
+  }
+]
+module.exports = {
+  broadcasts:json
+}

@@ -1,0 +1,9 @@
+<!--pages/hot/hot.wxml-->
+<view style="padding-bottom:20px"></view>
+<view class="music-hot">
+  <view wx:for="{{lists}}" wx:for-item="item" wx:for-index="index" wx:key="index">
+    <itemCard item="{{item}}" />
+  </view>
+  <!-- <audio class="player" poster="{{poster}}" name="{{name}}" author="{{author}}" src="{{src}}" id="myAudio" controls loop></audio> -->
+  <musicPlayer/>
+</view>

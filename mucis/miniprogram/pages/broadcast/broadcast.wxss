@@ -1,0 +1,16 @@
+/* pages/broadcast/broadcast.wxss */
+.page{
+  background-color: #ffcbd8;
+  margin: 0 auto;
+  width: 700rpx;
+  padding-top: 40rpx;
+  padding-bottom: 1450rpx;
+}
+.content{
+  width: 350rpx;
+  height: 350rpx;
+  display: flex;
+  float: left;
+  justify-content: center;
+  align-items: center;
+}

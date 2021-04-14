@@ -1,0 +1,22 @@
+/* component/userItem/userItem.wxss */
+.src-icon{
+  width: 50rpx;
+  height: 50rpx;
+  align-content: center;
+  margin-right: 20rpx;
+  padding-top: 10rpx;
+}
+.src-text{
+  color:#8d8b8b;
+  align-self: center;
+  font-size: 20px;
+  padding-left: 30rpx;
+}
+.user-item{
+  margin-top: 5px;
+  display: flex;
+  background-color: #f7e5e7;
+  
+  align-items: center;
+
+}

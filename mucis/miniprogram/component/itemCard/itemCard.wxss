@@ -1,0 +1,31 @@
+/* component/itemCard/itemCard.wxss */
+.list{
+  font-weight: bold;
+  font-size: 24px;
+  color: rgb(139, 106, 146);
+  background-color:#ffffff5d;
+  margin: 20rpx;
+  border-radius: 8px;
+  padding-left: 10px;
+}
+.profile{
+  height: 250rpx;
+  width: 250rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.banner{
+  width: 220rpx;
+  height: 220rpx;
+}
+.content{
+  background-color: #ffffff5d;
+  display: flex;
+  margin: 20rpx;
+    border-radius: 8px;
+}
+.song{
+  padding: 18rpx;
+
+}
